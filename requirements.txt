@@ -6,3 +6,4 @@ ipykernel
 nltk
 emoji
 scikit-learn
+mlflow
