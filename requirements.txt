@@ -7,3 +7,4 @@ nltk
 emoji
 scikit-learn
 mlflow
+dagshub
