@@ -8,3 +8,4 @@ emoji
 scikit-learn
 mlflow
 dagshub
+gensim
